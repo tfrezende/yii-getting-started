@@ -5,7 +5,7 @@ namespace app\models;
 use Yii;
 use yii\base\Model;
 
-class EntryFrom extends Model
+class EntryForm extends Model
 {
 
 	public $name;
